@@ -16,19 +16,15 @@ My submission for **DCASE 2025 Task 1: Device-Aware Inference for Low-Complexity
 
 ##  Installation (Requirements)
 
-Create a Python environment (e.g. Python 3.7) and install the following dependencies:
+Create a Python environment (e.g. Python 3.10) and install the following dependencies:
 
 ```bash
-pip install librosa==0.10.0.post2 \
-            pytorch-lightning==1.9.4 \
-            torch==1.11.0+cu113 \
-            torchaudio==0.11.0+cu113 \
-            torchvision==0.14.1 \
-            torchmetrics==0.11.4 \
-            torchlibrosa==0.1.0 \
-            timm==0.4.12 \
-            wandb==0.15.4 \
-            transformers==4.30.2
+pip install librosa
+            numpy
+            torch
+            tqdm
+            scikit-learn
+            pandas
 ```
 ##  File Overview
 
