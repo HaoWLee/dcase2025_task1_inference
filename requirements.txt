@@ -6,6 +6,6 @@ sox
 soundfile
 torch
 torchvision
-torchaudio
+librosa
 tqdm
 scikit-learn
