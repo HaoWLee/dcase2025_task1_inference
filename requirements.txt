@@ -1,0 +1,11 @@
+torchinfo
+pandas
+av
+h5py
+sox
+soundfile
+torch
+torchvision
+torchaudio
+tqdm
+scikit-learn
