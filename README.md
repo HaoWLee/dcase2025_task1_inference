@@ -25,6 +25,12 @@ pip install librosa
             tqdm
             scikit-learn
             pandas
+            torchinfo
+            av
+            h5py
+            sox
+            soundfile
+            torchvision
 ```
 ##  File Overview
 
